@@ -6,7 +6,7 @@
 - 🌱 主页：http://www.silver-lining.cn
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TF-Liu)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zym10101)
 
 ### 💬 Languages
 
