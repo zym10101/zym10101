@@ -20,7 +20,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Java语言:System.out.println('zym10101');C语言:printf('zym10101');C++语言：std::cout<<'zym10101';Python语言：print('zym10101');HTML语言：document.write('zym10101');&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Java:System.out.println('zym10101');C:printf('zym10101');CPP：std::cout<<'zym10101';Python：print('zym10101');HTML：document.write('zym10101');&center=true">
 </div>
 
 ### 🛠 Tools
