@@ -1,10 +1,10 @@
-### 👋 我是zym10101 
+### 👋 个人 
 
 - 🐧 简介：zym，21岁，男，山东东营人，南京大学软件学院2020级本科生
 - 🔭 兴趣：springboot、springcloud……
 - 🌱 主页：http://www.silver-lining.cn
 
-### 💬 常用语言
+### 💬 常用
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
@@ -14,14 +14,12 @@
 ![CSS3](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### 🛠 常用工具
-
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm&logoColor=white)
 
-### 📫 信息统计
+
+### 📫 统计
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zym10101)
 <div align="center"> 
