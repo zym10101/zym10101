@@ -1,6 +1,6 @@
 ### 👋 个人 
 
-- 🐧 简介：zym，21岁，男，山东东营人，南京大学软件学院2020级本科生
+- 🐧 简介：南京大学软件学院2020级本科生
 - 🔭 兴趣：springboot、springcloud……
 - 🌱 主页：http://www.silver-lining.cn
 
