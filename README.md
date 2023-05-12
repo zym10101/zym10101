@@ -1,7 +1,7 @@
 ### 👋 个人 
 
 - 🐧 简介：南京大学软件学院2020级本科生
-- 🔭 兴趣：mysql、springboot、springcloud……
+- 🔭 兴趣：nothing
 - 🌱 主页：http://www.silver-lining.cn
 
 ### 💬 常用
