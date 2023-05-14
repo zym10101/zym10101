@@ -1,7 +1,7 @@
 ### 👋 个人 
 
 - 🐧 简介：南京大学软件学院2020级本科生
-- 🔭 兴趣：nothing
+- 🔭 兴趣：java开发，C++开发
 - 🌱 主页：http://www.silver-lining.cn
 
 ### 💬 常用
